@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Yp9P16ojPiispDYG4xAzP64ghMDzFG9FmnP5l2hGkae7dgQAhOdhD70iB+a5gCNS6Jzr7n9U/OSPNfU4sWhiUg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Tihohod\\Desktop\\Работа\\auto.drom\\auto.drom\\auto.drom\\auto.drom.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tihohod\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\Tihohod\\.nuget\\packages\\selenium.webdriver\\4.22.0\\selenium.webdriver.4.22.0.nupkg.sha512"
+  ],
+  "logs": []
+}
